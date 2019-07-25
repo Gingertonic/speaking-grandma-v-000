@@ -17,7 +17,7 @@ require 'pry'
 def speak_to_grandma(phrase)
   #binding.pry
   #unless phrase is hi nana i lowe you, in which case return
-  if phrase == "Hi Nana, how are you?"
+  if phrase == "I LOVE YOU GRANDMA!"
     "I LOVE YOU TOO PUMPKIN!"
   elsif phrase == "Hi!"
     "HUH?! SPEAK UP, SONNY!"
