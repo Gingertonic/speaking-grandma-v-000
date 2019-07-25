@@ -16,8 +16,8 @@ require 'pry'
 
 def speak_to_grandma(phrase)
   #unless phrase is hi nana i lowe you, in which case return
-  if 
-    "HUH?! SPEAK UP, SONNY!"
+  #if 
+    #"HUH?! SPEAK UP, SONNY!"
   #return this
   "I LOVE YOU TOO PUMPKIN!"
 end
